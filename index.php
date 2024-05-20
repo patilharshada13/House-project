@@ -21,9 +21,6 @@ if(isset($_POST['submit']))
 
 ?>
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +32,7 @@ if(isset($_POST['submit']))
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-darkf fixed-top">
         <div class="container">
           <a class="navbar-brand" href="#"><span class="text-warning">Build</span>Con</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
